@@ -57,6 +57,7 @@ Her soru için en az 2 test yazın.
 ## Soru 8: Tahmin Oyunu
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
+|---|---|---|
 |şifre= 1453|
 |1454| büyük|daha küçük bir sayı gir|
 |1453|doğru|şifreyi buldunuz|
