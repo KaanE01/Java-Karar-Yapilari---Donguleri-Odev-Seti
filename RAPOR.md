@@ -66,12 +66,13 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-|1,2,3,4,5,6,7,8,9,10| | |
-| | | |
+|1,2,3,4,5,6,7,8,9,10|5,5|5,5|
+|1,1,1,1,1,1,1,1,1,1|1|1|
 
 ## Soru 10: Menü Tabanlı İşlem Programı
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|1,5|25|25|
+|5|kapatılıyor|kapatılıyor|
+|6|yanlış değer|hata|
