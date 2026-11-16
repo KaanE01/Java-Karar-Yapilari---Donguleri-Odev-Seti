@@ -14,6 +14,13 @@ public class Asalsayi {
             System.out.println("sayi asal degil"); //çıktı çıkar
             return; //bitir
         }
+        if (n == 2) { //ikiyi tuttuk
+            System.out.println("sayi asal "); //çıktı çıkar
+            return; //bitir
+        }
+
+
+        
         for (int i = 2; i < n; i++) { //i 1 er 1 er arttır 
             if (n % i == 0) { //her ne zaman i / n sıfıra eşitse çıktıyı çıkar
                 System.out.println("Sayi asal degildir");
