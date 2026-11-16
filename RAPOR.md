@@ -51,21 +51,21 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|13|asal|asal|
+|2|asal|asal|
 
 ## Soru 8: Tahmin Oyunu
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
-|---|---|---|
-|13|asal|asal|
-|2| | |
+|şifre= 1453|
+|1454| büyük|daha küçük bir sayı gir|
+|1453|doğru|şifreyi buldunuz|
 
 ## Soru 9: Sayıların Ortalaması
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|1,2,3,4,5,6,7,8,9,10| | |
 | | | |
 
 ## Soru 10: Menü Tabanlı İşlem Programı
